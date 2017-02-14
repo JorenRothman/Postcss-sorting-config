@@ -2,7 +2,7 @@
 
 ## Installation
 - Install the plugin
-<code> $ apm install postcss-sorting
+<code> $ apm install postcss-sorting </code>
 - Download the .json file
 - place the .json file in your home folder
 - goto your atom settings and search the plugin
