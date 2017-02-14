@@ -8,7 +8,7 @@
 - goto your atom settings and search the plugin
 - look for the custom config input
 - path to your config file is ~/.postcss-sorting.json
-- that's all
+- that's all :sunglasses:
 
 ## usage
 - open messy scss file
@@ -16,5 +16,5 @@
 - or use <kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> and type "postcss sorting: run"
 - you can enable "on save" but some mixin go broke after that!
 
-#### CARE
+#### CARE :ambulance:
 not fully tested yet!
