@@ -1,0 +1,28 @@
+h1 {
+    @extend %name;
+    @include font-size();
+
+    position: absolute;
+
+    display: block;
+
+    width: 100px;
+    height: 100px;
+
+    p {
+        text-align: center;
+
+        font-size: 13px;
+        line-height: 10px;
+    }
+
+    li {
+
+    }
+
+    @include media() {
+        h1 {
+            font-size: 15px;
+        }
+    }
+}
